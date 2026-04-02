@@ -5,7 +5,7 @@ Lightweight, rapidly deployable **Prefill-Decode (PD)** proxy for LLM serving �
 ### Projects
 
 - **[xPyD-proxy](https://github.com/xPyD-hub/xPyD-proxy)**
-  Rapidly deployable PD proxy server — scheduling, health monitoring, and dynamic instance management for prefill/decode.
+  Rapidly deployable PD proxy server — scheduling, health monitoring, and dynamic instance management for prefill/decode instances.
 
 ### About
 
